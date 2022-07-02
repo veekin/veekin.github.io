@@ -6,7 +6,7 @@
   <link href="http://magicpipi.life/atom.xml" rel="self"/>
   
   <link href="http://magicpipi.life/"/>
-  <updated>2022-06-28T05:27:37.875Z</updated>
+  <updated>2022-07-02T15:14:49.609Z</updated>
   <id>http://magicpipi.life/</id>
   
   <author>
@@ -17,15 +17,24 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>article title</title>
-    <link href="http://magicpipi.life/2022/06/28/article-title/"/>
-    <id>http://magicpipi.life/2022/06/28/article-title/</id>
+    <title>2022年事业单位计算机类复习经验</title>
+    <link href="http://magicpipi.life/2022/06/28/2022%E5%B9%B4%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB%E5%A4%8D%E4%B9%A0%E7%BB%8F%E9%AA%8C/"/>
+    <id>http://magicpipi.life/2022/06/28/2022%E5%B9%B4%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB%E5%A4%8D%E4%B9%A0%E7%BB%8F%E9%AA%8C/</id>
     <published>2022-06-28T05:27:37.000Z</published>
-    <updated>2022-06-28T05:27:37.875Z</updated>
+    <updated>2022-07-02T15:14:49.609Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="计算机部分"><a href="#计算机部分" class="headerlink" title="计算机部分"></a>计算机部分</h1><p>1.首先学习计算机基础知识视频以及讲义（我个人报名的中公线下课），做好笔记，对自己不熟悉的知识点格外注意记录。重点掌握数据结构和C语言基础部分，word、execel、PPT、windows的基本操作不用太关注，了解即可。</p><p>2.研究往年真题，一定要理解，<strong>特别市2015年至2021年真题指导意义重大</strong>。</p><p>3.三道实务题很重要。实务题第一题是ER图的知识点，第二题一般会是软件工程和伪代码相结合的题目（每年不同，包括面向对象 ，UML图，软件测试，软件代码流程图等），第三题一般是网络知识的题（网络拓扑图一定要会画），网络中的各种协议和协议的执行过程也非常重要，另外要会分析网络中出现问题的原因和写出解决办法。</p><p>4.伪代码知识点非常重要一定要掌握，如迭代、递归等。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;计算机部分&quot;&gt;&lt;a href=&quot;#计算机部分&quot; class=&quot;headerlink&quot; title=&quot;计算机部分&quot;&gt;&lt;/a&gt;计算机部分&lt;/h1&gt;&lt;p&gt;1.首先学习计算机基础知识视频以及讲义（我个人报名的中公线下课），做好笔记，对自己不熟悉的知识点格外注意记录。重点掌</summary>
+      
     
     
     
     
+    <category term="事业单位" scheme="http://magicpipi.life/tags/%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D/"/>
     
   </entry>
   
